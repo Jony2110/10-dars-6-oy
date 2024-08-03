@@ -29,7 +29,7 @@ function Header() {
   return (
     <div className={`${styles.container} ${theme === 'dark' ? styles.dark : styles.light}`}>
       <div className={styles.box1}>
-        <img src="./public/img/LOGO.svg" alt="" />
+        <img src="./img/LOGO.svg" alt="" />
       </div>
       <div>
         <ul className={styles.ul}>
