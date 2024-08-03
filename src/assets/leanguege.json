@@ -1,0 +1,86 @@
+{
+  "en": {
+    "translation": {
+      "title": "Let your groceries come to you",
+      "info":"Get fresh groceries online without stepping out to make delicious food with the freshest ingredients",
+      "home":"HOME",
+      "kategory":"CATEGORY",
+      "language":"ENGLISH",
+      "sales":"SALES",
+      "about":"ABOUT",
+      "contact":"CONTACT",
+      "themeDark":"DARK",
+      "theme":"LIGHT",
+      "input":"Search here",
+      "moloko":"Dairy Products",
+      "lorem":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "meva":"Vegetables & Fruits",
+      "zira":"Spices & Seasonings",
+      "honey":"Honey",
+      "flour":"Flour",
+      "vege":"Fresh Vegetables",
+      "garant":"Guarantee",
+      "buy":"Cash on Delivery",
+      "fast":"Fast Delivery",
+      "fresh":"Fresh Spinach",
+      "morkov":"Fresh Carrot"
+    }
+  },
+  "ru": {
+    "translation": {
+      "title": "Пусть ваши продукты придут к вам",
+      "info":"Приобретайте свежие продукты онлайн, не выходя из дома, и готовьте вкусные блюда из самых свежих ингредиентов.",
+      "home":"ГЛАВНЫЙ",
+      "kategory":"КАТЕГОРИ",
+      "language":"РУССКИЙ",
+      "sales":"ПРОДАЖИ",
+      "about":"ДЕТАЛИ",
+      "contact":"КОНТАКТЫ",
+      "themeDark":"ТЁМНЫЙ",
+      "theme":"СВЕТЛЫЙ",
+      "input":"Ишите здесь",
+      "moloko":"Молочный продукты",
+      "lorem":"Клиент очень важен, за клиентом последует клиент",
+      "meva":"Овоши и фрукты",
+      "zira":"Специи и приправы",
+      "honey":"Мёд",
+      "flour":"Мука",
+      "vege":"Свежие овощи",
+      "garant":"Гарантия",
+      "buy":"Оплата при доставке",
+      "fast":"Быстрая доставка",
+      "fresh":"Свежий шпинат",
+      "morkov":"Свежий морковь"
+
+    }
+  },
+
+  "uz": {
+    "translation": {
+      "title": "Oziq-ovqatlaringiz sizga yetib kelsin",
+      "info":"Eng yangi ingredientlar bilan mazali taom tayyorlash uchun tashqariga chiqmasdan yangi oziq-ovqat mahsulotlarini onlayn xarid qiling",
+      "home":"ASOSIY",
+      "kategory":"KATEGORIYA",
+      "language":"UZBEKCHA",
+      "sales":"SOTUV",
+      "about":"BATAFSIL",
+      "contact":"KONTAKT",
+      "themeDark":"QORONGU",
+      "theme":"YORIG",
+      "input":"Bu yerda qidiring",
+      "moloko":"Sutli mahsulotlar",
+      "lorem":"Mijoz juda muhim, mijozni mijoz kuzatib boradi",
+"meva":"Sabzavotlar va mevalar",
+"zira":"Ziravorlar va ziravorlar",
+"honey":"Asal",
+"flour":"Un",
+"vege":"Yangi sabzavotlar",
+"garant":"Kafolat",
+"buy":"Keyin tolang",
+"fast":"Tezkor yetkazib berish",
+"fresh":"Yangi ismaloq",
+"morkov":"Свежий морковь"
+
+    }
+  }
+}
